@@ -155,7 +155,7 @@ export default class EditTokoDorayaki extends Component {
           <div className="form-group">
             <input
               type="submit"
-              value="Update Toko Dorayaki"
+              value="Edit Toko Dorayaki"
               className="btn btn-primary"
             />
             &nbsp;
