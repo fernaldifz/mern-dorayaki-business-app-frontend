@@ -39,6 +39,7 @@ Berikut merupakan list path yang tersedia saat ini untuk menampilkan gambar dora
 - Rasa stroberi: /src/components/images/dorayakistroberi.jpg
 - Rasa keju: /src/components/images/dorayakikeju.jpg
 - Rasa teh hijau: /src/components/images/dorayakitehhijau.jpg
+
 Anda dapat melakukan penambahan/perubahan/penghapusan gambar di folder /src/components/images.
 
 ## Add Menu Toko Dorayaki
