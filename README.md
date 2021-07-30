@@ -60,8 +60,8 @@ Anda dapat menampilkan data toko dorayaki yang telah dibuat (nama, jalan, kecama
 ## Menu Toko
 Anda dapat menampilkan data toko dorayaki yang telah dibuat (rasa dorayaki yang disediakan, persediaan dan kapasitasnya) di pilihan "Menu Toko" di navigation bar. Kemudian, Anda dapat melakukan:
 - edit menu untuk melakukan pembaharuan menu yang telah dibuat (persediaan dan kapasitasnya). Pilih rasa dorayaki yang ingin diubah persediaan dan kapasitasnya, kemudian pilih tombol "Edit Menu Toko Dorayaki" atau tombol "Cancel" untuk membatalkan pembaharuan.
-- delete menu untuk menghapus "suatu" menu.
-- delete all menu untuk menghapus seluruh menu.
+- delete menu untuk menghapus "suatu" menu di toko tersebut.
+- delete all menu untuk menghapus seluruh menu di toko tersebut.
 
 ## Dorayaki
 Anda dapat menampilkan data dorayaki yang telah dibuat (rasa, deskripsi, gambarnya dalam format picture dan harga dorayaki) di pilihan "Dorayaki" di navigation bar. Kemudian, Anda dapat melakukan:
