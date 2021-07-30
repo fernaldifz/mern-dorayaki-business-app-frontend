@@ -4,7 +4,7 @@ Aplikasi MERN bisnis dorayaki terdiri dari [frontend](https://github.com/fernald
 ```
 npm run dev
 ```
-- Menjalankan docker-compose up pada folder backend aplikasi bisnis dorayaki
+- Menjalankan docker-compose up pada folder backend aplikasi bisnis dorayaki (backend aplikasi ini telah di-dockerize)
 ```
 docker-compose up
 ```
