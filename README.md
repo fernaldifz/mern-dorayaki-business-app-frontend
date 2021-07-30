@@ -1,5 +1,5 @@
 # MERN-Dorayaki-Business-App (Frontend)
-Aplikasi MERN bisnis dorayaki dapat dijalankan dengan:
+Aplikasi MERN bisnis dorayaki terdiri dari [frontend](https://github.com/fernaldifz/mern-dorayaki-business-app-frontend) dan [backend](https://github.com/fernaldifz/mern-dorayaki-business-app-backend) yang dapat dijalankan dengan:
 - Menjalankan npm run dev pada folder frontend aplikasi bisnis dorayaki
 ```
 npm run dev
