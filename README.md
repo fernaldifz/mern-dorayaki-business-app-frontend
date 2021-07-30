@@ -17,7 +17,7 @@ tidak keluar di CLI Anda, dapat melakukan pengaturan DNS pada koneksi internet A
 Kemudian, Anda dapat mengakses ```http://localhost:3000/``` untuk menjalankan aplikasi.
 
 ## Menggunakan Aplikasi
-Aplikasi MERN bisnis dorayaki yang bernama "Stand With Dorayaki" dimulai dengan keadaan toko dorayaki dan dorayaki berjumlah 0.
+Aplikasi MERN bisnis dorayaki yang bernama "Stand With Dorayaki" dimulai dengan keadaan toko dorayaki dan dorayaki berjumlah 0 (Kecuali sebelumnya Anda sudah melakukan Create terhadap dorayaki atau toko dorayaki sebelumnya, maka aplikasi akan dimulai dari keadaan terakhir).
 
 Aplikasi ini terdiri dari 7 bagian utama yang dapat diakses di navigation bar, yaitu:
 - Create Toko Dorayaki
